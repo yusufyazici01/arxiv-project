@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+transformers
+torch
+scikit-learn
+nltk
+selenium
+moviepy
+gTTS
+pyttsx3
+Pillow
