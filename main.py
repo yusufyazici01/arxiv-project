@@ -25,7 +25,7 @@ def main():
     # 4. Post to partners.foreo.com
     print("[INFO] Posting article to partners.foreo.com...")
     post_article_selenium(final_summary)
-    # OR: post_article_api(final_summary)
+    
     
     # 5. Create Video
     print("[INFO] Generating text-to-speech audio and creating video...")
