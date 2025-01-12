@@ -14,7 +14,7 @@ def upload_to_youtube(video_path, title, description=""):
                 "title": title,
                 "description": description,
                 "tags": ["arxiv", "short", "AI", "CS"],
-                "categoryId": "28"  # 28 => Science & Technology
+                "categoryId": "28"  
             },
             "status": {
                 "privacyStatus": "public"
